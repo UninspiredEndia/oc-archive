@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>New OC</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Add New OC</h1>
+  <form id="oc-form">
+    <input type="text" id="name" placeholder="Name" required><br>
+    <textarea id="bio" placeholder="Character Bio" required></textarea><br>
+    <button type="submit">Save Character</button>
+  </form>
+
+  <a href="index.html">Back to List</a>
+  <script src="script.js"></script>
+</body>
+</html>
