@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My OCs</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>My Original Characters</h1>
+  <a href="new.html">+ Add New OC</a>
+  <div id="oc-list"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
