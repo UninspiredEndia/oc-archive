@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background: #f4f4f4;
+  color: #333;
+}
+input, textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+a {
+  color: #3366cc;
+  text-decoration: none;
+}
