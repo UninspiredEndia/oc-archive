@@ -8,9 +8,10 @@
 <body>
   <h1>Add New OC</h1>
   <form id="oc-form">
-    <input type="text" id="name" placeholder="Name" required><br>
-    <textarea id="bio" placeholder="Character Bio" required></textarea><br>
-    <button type="submit">Save Character</button>
+  <label>Name: <input type="text" id="name" required /></label><br />
+  <label>Description: <textarea id="description" required></textarea></label><br />
+  <label>Image: <input type="file" id="image" accept="image/*" /></label><br />
+  <button type="submit">Save OC</button>
   </form>
 
   <a href="index.html">Back to List</a>
